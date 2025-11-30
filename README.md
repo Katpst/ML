@@ -1,4 +1,4 @@
-Machine Learning Projects
+**Machine Learning Projects**
 
 This repository contains a collection of small machine-learning projects demonstrating core ML concepts such as regression, classification, model evaluation and regularization.
 Currently, it includes two Jupyter notebooks: one focused on overfitting in regression and another on credit default classification.
@@ -29,8 +29,6 @@ This notebook shows how overfitting occurs in regression models and how regulari
 ---
 
 ### **2. Credit Default Classification (Lasso & KNN)**
-
-**Notebook:** `credit_default_classification.ipynb`
 
 **Topics covered:**
 
@@ -67,7 +65,7 @@ git clone https://github.com/Katpst/ML
 cd ML
 ```
 
-## 📌 Future Work
+Future Work
 
 * Add more classification models (SVM, Random Forest, XGBoost)
 * Hyperparameter tuning (GridSearch, RandomSearch, Optuna)
